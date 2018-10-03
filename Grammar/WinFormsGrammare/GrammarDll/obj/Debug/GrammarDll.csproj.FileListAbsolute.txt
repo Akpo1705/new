@@ -1,0 +1,5 @@
+C:\Users\Александр\Desktop\Grammar\WinFormsGrammare\GrammarDll\bin\Debug\GrammarDll.dll
+C:\Users\Александр\Desktop\Grammar\WinFormsGrammare\GrammarDll\bin\Debug\GrammarDll.pdb
+C:\Users\Александр\Desktop\Grammar\WinFormsGrammare\GrammarDll\obj\Debug\GrammarDll.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Grammar\WinFormsGrammare\GrammarDll\obj\Debug\GrammarDll.dll
+C:\Users\Александр\Desktop\Grammar\WinFormsGrammare\GrammarDll\obj\Debug\GrammarDll.pdb

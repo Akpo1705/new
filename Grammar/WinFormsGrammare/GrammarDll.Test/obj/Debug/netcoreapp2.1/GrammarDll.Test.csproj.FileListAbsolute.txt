@@ -1,0 +1,17 @@
+C:\Users\Александр\Desktop\Grammar\WinFormsGrammare\GrammarDll.Test\obj\Debug\netcoreapp2.1\GrammarDll.Test.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\Grammar\WinFormsGrammare\GrammarDll.Test\obj\Debug\netcoreapp2.1\GrammarDll.Test.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Grammar\WinFormsGrammare\GrammarDll.Test\obj\Debug\netcoreapp2.1\GrammarDll.Test.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\Grammar\WinFormsGrammare\GrammarDll.Test\obj\Debug\netcoreapp2.1\GrammarDll.Test.AssemblyInfo.cs
+C:\Users\Александр\Desktop\Grammar\WinFormsGrammare\GrammarDll.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Александр\Desktop\Grammar\WinFormsGrammare\GrammarDll.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Александр\Desktop\Grammar\WinFormsGrammare\GrammarDll.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Александр\Desktop\Grammar\WinFormsGrammare\GrammarDll.Test\bin\Debug\netcoreapp2.1\GrammarDll.Test.deps.json
+C:\Users\Александр\Desktop\Grammar\WinFormsGrammare\GrammarDll.Test\bin\Debug\netcoreapp2.1\GrammarDll.Test.runtimeconfig.json
+C:\Users\Александр\Desktop\Grammar\WinFormsGrammare\GrammarDll.Test\bin\Debug\netcoreapp2.1\GrammarDll.Test.runtimeconfig.dev.json
+C:\Users\Александр\Desktop\Grammar\WinFormsGrammare\GrammarDll.Test\bin\Debug\netcoreapp2.1\GrammarDll.Test.dll
+C:\Users\Александр\Desktop\Grammar\WinFormsGrammare\GrammarDll.Test\bin\Debug\netcoreapp2.1\GrammarDll.Test.pdb
+C:\Users\Александр\Desktop\Grammar\WinFormsGrammare\GrammarDll.Test\bin\Debug\netcoreapp2.1\GrammarDll.dll
+C:\Users\Александр\Desktop\Grammar\WinFormsGrammare\GrammarDll.Test\bin\Debug\netcoreapp2.1\GrammarDll.pdb
+C:\Users\Александр\Desktop\Grammar\WinFormsGrammare\GrammarDll.Test\obj\Debug\netcoreapp2.1\GrammarDll.Test.csproj.CopyComplete
+C:\Users\Александр\Desktop\Grammar\WinFormsGrammare\GrammarDll.Test\obj\Debug\netcoreapp2.1\GrammarDll.Test.dll
+C:\Users\Александр\Desktop\Grammar\WinFormsGrammare\GrammarDll.Test\obj\Debug\netcoreapp2.1\GrammarDll.Test.pdb
